@@ -2,7 +2,7 @@
 
 Software engineering student at the University of Sydney. I work on retrieval systems and applied ML — mostly the engineering side of getting models and LLM systems into production, rather than the modelling alone.
 
-**Currently:** going deeper on hybrid retrieval — chunking strategies, dense vs sparse tradeoffs, and rank fusion.
+**Currently:** going deeper on hybrid retrieval — chunking strategies, dense vs sparse tradeoffs, and rank fusion. Deploying Repo Assistant to a public demo next.
 
 **Looking for:** ML, data, and software engineering internships in Sydney or remote.
 
@@ -23,7 +23,7 @@ Point it at a GitHub repository and ask questions in natural language. Rather th
 
 *Python 3.12 · FastAPI · Qdrant · Postgres · tree-sitter · Redis · Docker · Anthropic API*
 
-`Going public September 2026`
+[**Code →**](https://github.com/adiprk08/repo-assistant)
 
 ---
 
@@ -39,7 +39,7 @@ Group project for ENGG2112 (4 members). Two experiments: an architecture compari
 
 *PyTorch · MediaPipe · OpenCV · SQLite · NumPy*
 
-`Going public August 2026`
+[**Code →**](https://github.com/adiprk08/drowsiness-detection)
 
 ---
 
