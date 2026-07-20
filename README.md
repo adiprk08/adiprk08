@@ -23,7 +23,7 @@ Point it at a GitHub repository and ask questions in natural language. Rather th
 
 *Python 3.12 · FastAPI · Qdrant · Postgres · tree-sitter · Redis · Docker · Anthropic API*
 
-[**Code →**](https://github.com/adiprk08/repo-assistant)
+[**Code →**](https://github.com/adiprk08/repo_assistant)
 
 ---
 
@@ -39,7 +39,7 @@ Group project for ENGG2112 (4 members). Two experiments: an architecture compari
 
 *PyTorch · MediaPipe · OpenCV · SQLite · NumPy*
 
-[**Code →**](https://github.com/adiprk08/drowsiness-detection)
+[**Code →**](https://github.com/adiprk08/drowsiness_detection)
 
 ---
 
